@@ -1,0 +1,11 @@
+### UPDATE A PATIENT
+PUT http://localhost:8080/patients/48506d8a-c013-4581-be2d-51add0ed86d0
+Content-Type: application/json
+
+{
+  "name": "Ahmed Raft mahmoud  ",
+  "email": "ahmed@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}

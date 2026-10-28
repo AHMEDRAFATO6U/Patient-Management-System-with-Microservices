@@ -1,0 +1,2 @@
+### GET REQUEST TO GRT ALL PATIENTS
+GET http://localhost:8080/patients
